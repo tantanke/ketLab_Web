@@ -1,0 +1,37 @@
+{
+  "id": "2365376",
+  "name": "智能共享租赁平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17881646",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6446009",
+      "name": "我的",
+      "font_class": "profile",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "400331",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "16401933",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "ebee",
+      "unicode_decimal": 60398
+    }
+  ]
+}
